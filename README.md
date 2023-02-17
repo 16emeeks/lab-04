@@ -4,8 +4,3 @@
 ## Team Members
 - Elliott Meeks
 
-## Lab Question Answers
-
-Answer for Question 1: 
-
-...
